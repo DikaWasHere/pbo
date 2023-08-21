@@ -1,0 +1,19 @@
+#include <iostream>
+#include <stdio.h>
+
+using namespace std;
+
+int main() {
+
+  cout << "yang pintar banyak" << endl;
+  getchar();
+  cout << "yang sok pintar lebih banyak" << endl;
+  getchar();
+  cout << "yang kaya banyak" << endl;
+  getchar();
+  cout << "yang sok kaya juga banyak" << endl;
+  getchar();
+  cout << "yang cakep?" << endl;
+  getchar();
+  cout << "kalau yang ini jelas cuma kamu ";
+}
